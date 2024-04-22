@@ -16,4 +16,12 @@ Passo a passo para AWS:<br>
   <li>Mudar de pasta</li>
   <li>Instalar dependencias</li>
   <li>Rodar o servidor</li>
+  <li>Rotas presentes:
+    <ul>
+      <li>"/"</li>
+      <li>"/users"</li>
+      <li>"/user/id/:id"</li>
+      <li>"/user/name/:name"</li>        
+    </ul>
+  </li>
 </ol>
