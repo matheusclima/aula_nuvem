@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Matheus",
+        "email": "matheus@matheus.com",
+        "cpf": "05568978",
+        "password": "123456"
+    },
+    {
+        "id": 2,
+        "name": "Gabriel",
+        "email": "gabriel@gabriel.com",
+        "cpf": "05478995",
+        "password": "654321"
+    },
+    {
+        "id": 3,
+        "name": "Paulo",
+        "email": "paulo@paulo.com",
+        "cpf": "05466548",
+        "password": "654561"
+    }
+]
