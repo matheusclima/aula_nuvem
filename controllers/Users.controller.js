@@ -13,7 +13,7 @@ const UsersController = {
         return res.status(200).send(user)
     },
     getByName: (req, res) => {
-        let name = req.params.id
+        let name = req.params.name
         let user = users.find(u => u.name == name)
         if(!user) {
             return res.status(404).send("User not found")
