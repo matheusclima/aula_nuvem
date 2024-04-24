@@ -25,4 +25,3 @@ Passo a passo para AWS:<br>
     </ul>
   </li>
 </ol>
-Mudança no README
